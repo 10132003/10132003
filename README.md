@@ -65,7 +65,18 @@
 - Real-Time Service Requests
 - Emergency Vehicle Assistance
 
-🔗 Repository: https://github.com/10132003/TravelAssistApp
+🔗 Repository: https://github.com/10132003/TravelAssist
+
+---
+
+### 🌐 Personal Portfolio
+
+- React
+- Tailwind CSS
+- Framer Motion
+- Responsive Design
+
+🔗 Repository: https://github.com/10132003/Thomas-Portfolio
 ---
 
 ## Profiles
