@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/10132003/10132003/main/ticker_banner.svg" width="100%"/>
-</p>
+
 <h1 align="center">Hi 👋, I'm Thomas M</h1>
 <h3 align="center">Backend Developer | Java & Spring Boot | Aspiring Quant Systems Engineer</h3>
 
