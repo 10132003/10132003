@@ -8,7 +8,7 @@
 
 ### 🎓 About Me
 - B.E. Computer Science and Engineering (CGPA: 8.53)
-- M.Tech Operations Research, NIT Durgapur (2026–2028)
+- M.Tech Communication and Signal Processing, IIT (ISM) Dhanbad (2026–2028)
 - Backend Developer passionate about scalable systems and distributed applications
 - Solved 440+ LeetCode Problems
 - GATE CS Qualified Twice
